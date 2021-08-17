@@ -42,7 +42,7 @@
 ## :link: Links <a name="-links"/></a>
 
 - [YouTube](https://youtu.be/kiGmPbZXRso) - Vídeos com explicação do código;
-- - [YouTube](https://www.youtube.com/playlist?list=PL-mvLy2ws8IIGRMem0tQrKc-h4jHPhadk) - Playlist sobre programação distribuída;
+- [YouTube](https://www.youtube.com/playlist?list=PL-mvLy2ws8IIGRMem0tQrKc-h4jHPhadk) - Playlist sobre programação distribuída;
 
 ## :memo: Licença <a name="-licenca"/></a>
 
